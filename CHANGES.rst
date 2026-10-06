@@ -2,6 +2,14 @@
 Cython Changelog
 ================
 
+3.2.9.post2 (2026-10-06)
+==================
+
+Bugs fixed
+----------
+
+* Patch Cython AsyncGen NULL dereference causing collector-grpc segfaults
+
 3.2.9 (2026-07-23)
 ==================
 
